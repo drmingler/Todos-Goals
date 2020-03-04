@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db20444-070e-41ce-9869-23b84db67f12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Contact-App" />
+  </component>
+  <component name="ProjectId" id="1YfrZeuL7PaF5HQsUMlYuoyMSOL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Contact-App" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Contact-App" />
+      <recent name="$PROJECT_DIR$/../Twitter-Clone" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db20444-070e-41ce-9869-23b84db67f12" name="Default Changelist" comment="" />
+      <created>1583344546418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583344546418</updated>
+      <workItem from="1583344548970" duration="1228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="51" key="CommitChangelistDialog2" timestamp="1583344850602">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="367" y="51" key="CommitChangelistDialog2/0.23.1680.979@0.23.1680.979" timestamp="1583344850602" />
+    <state x="340" y="189" key="Vcs.Push.Dialog.v2" timestamp="1583344960680">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="340" y="189" key="Vcs.Push.Dialog.v2/0.23.1680.979@0.23.1680.979" timestamp="1583344960680" />
+    <state x="605" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583344822051">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="605" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.979@0.23.1680.979" timestamp="1583344822051" />
+  </component>
+</project>
