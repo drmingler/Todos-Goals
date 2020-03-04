@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a todo-goals application made with react and redux. It keeps track of your daily goals and activities you intend to perform. You can also strike out or remove completed tasks or goals.
 
-###Installation:
+### Installation:
 To run the application:
 clone the Project 
 install the dependencies - npm install
